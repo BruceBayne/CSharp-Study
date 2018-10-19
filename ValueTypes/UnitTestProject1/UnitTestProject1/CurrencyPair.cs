@@ -1,5 +1,10 @@
 ﻿using System;
 
+
+
+
+
+
 public struct CurrencyPair
 {
 	public string Value;
