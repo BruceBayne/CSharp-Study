@@ -41,3 +41,4 @@ packages/
 *.bin
 *.tmp
 ~$план.docx
+ValueTypes/~$Plan.docx
